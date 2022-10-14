@@ -573,6 +573,13 @@ ul li {
   text-align: left;
   column-count: 2;
 }
+
+.linktext {
+  font-size: 10pt; 
+  text-align: right; 
+  margin-right: 3%
+}
+
 /*
 .doubleColumn div{
   text-align: left;
