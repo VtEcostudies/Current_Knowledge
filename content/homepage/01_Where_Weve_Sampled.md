@@ -1,7 +1,7 @@
 ---
-title: 'Where Sampled'
+title: 'Where We Have Sampled'
 weight: 1
-header_menu: true
+header_menu: false
 ---
 
 

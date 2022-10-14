@@ -8,12 +8,13 @@ weight: 7
 # into the header menu at the top of the homepage.
 header_menu: true
 ---
+<br>
 <div class="lead">
 <h4> 
 ~95% of the state is within the foraging range of a registered Honey Bee hive
 </h4>
 </div>
-
+<br>
 <div class="doubleColumn">
 <div>
 The Western Honey Bee (<i>Apis melifera</i>) is the most extensively managed species of bee in the world. The vast majority of honey bees in Vermont are living in managed hives, though they occasionally escape and establish colonies in natural settings or human structures such as house walls. It is thought that very few of these feral hives are able to survive for multiple seasons. 

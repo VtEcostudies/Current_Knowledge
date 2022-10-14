@@ -9,4 +9,4 @@ weight: 4
 header_menu: true
 ---
 
-Without historical data, trends are impossible to ascertain for all species except for bumble bees (coming soon)
+Without historical data, trends are impossible to ascertain for all species except for Bumble Bees (coming soon)
