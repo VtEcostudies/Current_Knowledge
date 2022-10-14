@@ -1,0 +1,3 @@
+[submodule "Currrent_Knowledge/themes/hugo-scroll"]
+	path = Currrent_Knowledge/themes/hugo-scroll
+	url = https://github.com/janraasch/hugo-scroll.git

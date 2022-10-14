@@ -1,0 +1,4 @@
+baseURL = 'https://vtecostudies.github.io/Current_Knowledge'
+languageCode = 'en-us'
+title = 'VAL - State of Bees'
+theme = "hugo-scroll" 
