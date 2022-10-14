@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Vermont's State of Bees - Current Knowledge"
+title = "VAL - State of Bees - Current Knowledge"
 
 [markup]
   [markup.goldmark]
