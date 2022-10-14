@@ -21,3 +21,5 @@ The pollination services that our agricultural systems rely on come from a varie
   <iframe src="https://vt-ecostudies-atlas.shinyapps.io/wildbee_interactions" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:500px;width:100%;border:none;overflow:hidden;"></iframe>
   </iframe>
 </div>
+
+<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
