@@ -20,5 +20,5 @@ A concerted effort has been made to visit the full spectrum of habitats across t
 </div>
 </div>
 
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a>
+<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
 

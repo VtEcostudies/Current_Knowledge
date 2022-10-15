@@ -11,4 +11,4 @@ All 50,000+ bee records are available to interested researchers and the public t
 
 <img alt="Agapostemon_sericueus" src="images\Silky-Striped-Sweat-Bee-Agapostemon-sericeus_KPMcFarland.jpg" style="width:75% align:center">
 
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a>
+<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
