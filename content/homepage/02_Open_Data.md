@@ -1,7 +1,7 @@
 ---
 title: 'Open Data'
-weight: 2
-header_menu: true
+weight: 3
+header_menu: false
 ---
 <div class="lead">
 <h4> The bee data are freely available </h4> 
