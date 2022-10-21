@@ -1,0 +1,29 @@
+---
+title: 'Honey Bees'
+# The "weight" will determine where this section appears on the "homepage".
+# A bigger weight will place the content more towards the bottom of the page.
+# It's like gravity ;-).
+weight: 8
+# If "header_menu" is true, then a button linking to this section will be placed
+# into the header menu at the top of the homepage.
+header_menu: true
+---
+<br>
+<div class="lead">
+<h4> 
+~95% of the state is within the foraging range of a registered Honey Bee hive
+</h4>
+</div>
+<br>
+<div class="doubleColumn">
+<div>
+The Western Honey Bee (<i>Apis melifera</i>) is the most extensively managed species of bee in the world. The vast majority of honey bees in Vermont are living in managed hives, though they occasionally escape and establish colonies in natural settings or human structures such as house walls. It is thought that very few of these feral hives are able to survive for multiple seasons. 
+
+HONEY BEE IMAGE HERE 
+</div>
+<div><img src="images/Apis_mellifera_VT_hives.png" alt="Apis_mellifera_SDM_hives_VT" style="height:700px; width:490px;">
+<p class="caption">Honey Bee (<i>Apis mellifera</i>) in Vermont. Locations of registered hives (triangles) and iNaturalist records (small dots) in Vermont. The underlying colors denote areas where Honey Bees are likely (dark green) and unlikely to occur (lightgreen)</p>
+</div>
+</div>
+
+<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>

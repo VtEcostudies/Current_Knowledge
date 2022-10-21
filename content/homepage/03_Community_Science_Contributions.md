@@ -1,6 +1,6 @@
 ---
 title: 'Community Science Contributions'
-weight: 1
+weight: 2
 header_menu: true
 ---
 <br>
