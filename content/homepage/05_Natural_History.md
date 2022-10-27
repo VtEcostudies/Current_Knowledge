@@ -24,4 +24,35 @@ Nesting is a crucial part of their annual cycle that remains woefully understudi
 </div>  <!-- double column -->
 </div> <!-- end row -->
 
+<br>
+<div class = "lead">
+<h4>Detailed Species accounts for all 350+ species will be available soon!</h4>
+</div>
+
+As part of the state bee checklist that will be published next year, we are developing individual species accounts for each species. These will provide up to date information on species distributions, flower preferences, phenology, habitat needs, and the effect of sampling method based on over 50,0000 occurrence records. 
+<br>
+
+Below are a few examples from the forthcoming species accounts.
+
+<div class= "row">
+<div class = "doubleColumn">
+<div> <p> Ligated Furrow Bee (<i>Halictus ligatus</i>) <b>phenology</b> </p>
+<img src="images/Phenology_Halictus_ligatus.png" alt="Ligated_Furrow_Bee_Phenology" title="Ligated Furrow Bee (<i>Halictus ligatus</i>)">
+</div>
+<div> <p> Cherry Miner (<i>Andrena pruni</i>) <b>distribution</b></p>
+<img src="images/Example_dist_Andrena_pruni.png" alt="Cherry_Miner_Distribution_Map" title="Cherry Miner (<i>Andrena pruni</i>)">
+</div>
+</div>
+</div>
+<div class= "row">
+<div class = "doubleColumn">
+<div> <p> <b>Elevation profile</b> of New England Longhorn records (<i>Melissodes illatus</i>) in black, with the elevation profile of the whole state in gray.</p>
+<img src="images/Elevation_hist_Melissodes_illatus.png" alt="New England Longhorn Elevation Profile" title="New England Longhorn(<i>Melissodes illatus</i>)">
+</div>
+<div> <p> <b>Capture methods</b> for the Bicolored Striped-Sweat bee (<i>Agapostemon virescens</i>) shown as the black dot, compared to all other species (gray dots). </p>
+<img src="images/Tert_plot_Agapostemon_virescens.png" alt="Bicolored_striped_sweat_bee" title="Bicolored Striped-Sweat bee (<i>Agapostemon virescens</i>)">
+</div>
+</div>
+</div>
+
 <p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
