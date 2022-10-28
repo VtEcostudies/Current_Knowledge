@@ -21,7 +21,7 @@ The Western Honey Bee (<i>Apis melifera</i>) is the most extensively managed spe
 
 HONEY BEE IMAGE HERE
 </div>
-<div><img src="images/Apis_mellifera_VT_hives.png" alt="Apis_mellifera_SDM_hives_VT" style="height:700px; width:490px;">
+<div><img src="https://stateofbees.vtatlasoflife.org/images/Apis_mellifera_VT_hives.png" alt="Apis_mellifera_SDM_hives_VT" style="height:700px; width:490px;">
 <p class="caption">Honey Bee (<i>Apis mellifera</i>) in Vermont. Locations of registered hives (triangles) and iNaturalist records (small dots) in Vermont. The underlying colors denote areas where Honey Bees are likely (dark green) and unlikely to occur (lightgreen)</p>
 </div>
 </div>
