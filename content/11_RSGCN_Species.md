@@ -9,12 +9,9 @@ weight: 16
 header_menu: false
 ---
 <div class="lead">
-<h4> 
-19 VT bee species have been identified as Regional Species of Greatest Conservation Need. 
+<h4>
+19 VT bee species have been identified as Regional Species of Greatest Conservation Need.
 </h4>
 </div>
 
-The Northeast Fish and Wildlife Diversity Technical Committee recently updated the list of Regional Species of Greatest Conservation Need, which now includes 19 bee species that have been recorded in Vermont. 6 of these species are bumblebees, three of which have not been recorded in Vermont in over 20 years and are considered historical (SH). Two other species (Colletes consors and Dianthidium simile) are known only from historical records. Of the remaining 11 species, all but Megachile rugifrons are specialists with narrow diets or parasitic species with specialist hosts. While this specialization increases the extinction threat, it also provides an opportunity for targeted conservation actions. All ten specialist RSGCN species that are considered extant in Vermont should be benefited by preservation of the habitats spelled out in the Conservation priorities section. 
-
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
+The Northeast Fish and Wildlife Diversity Technical Committee recently updated the list of Regional Species of Greatest Conservation Need, which now includes 19 bee species that have been recorded in Vermont. 6 of these species are bumblebees, three of which have not been recorded in Vermont in over 20 years and are considered historical (SH). Two other species (Colletes consors and Dianthidium simile) are known only from historical records. Of the remaining 11 species, all but Megachile rugifrons are specialists with narrow diets or parasitic species with specialist hosts. While this specialization increases the extinction threat, it also provides an opportunity for targeted conservation actions. All ten specialist RSGCN species that are considered extant in Vermont should be benefited by preservation of the habitats spelled out in the Conservation priorities section.

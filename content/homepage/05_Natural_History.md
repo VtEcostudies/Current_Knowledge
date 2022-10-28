@@ -8,7 +8,7 @@ header_menu: true
 <h4> </h4>
 </div>
 
-Not all bee species are alike. Even within a single genus, social structure, phenology, nesting locations, and diet can vary widely. Some species are active as adults for less than a month, spending most of the year as larvae or pupae in a nest. Others, however, overwinter as adults are active from April through October, with multiple generations in one summer. Understanding each species' natural history can reveal important information that is necessary for conservation action to succeed. 
+Not all bee species are alike. Even within a single genus, social structure, phenology, nesting locations, and diet can vary widely. Some species are active as adults for less than a month, spending most of the year as larvae or pupae in a nest. Others, however, overwinter as adults are active from April through October, with multiple generations in one summer. Understanding each species' natural history can reveal important information that is necessary for conservation action to succeed.
 
 
 <div class = "row">
@@ -17,7 +17,7 @@ Not all bee species are alike. Even within a single genus, social structure, phe
 <img src="https://stateofbees.vtatlasoflife.org/images/Brown-belted Bumble Bee (Bombus griseocollis) nest 20120613.jpg" style="width: 75%">
 </div>
 
-Nesting is a crucial part of bees' annual cycle that remains woefully understudied. While broad nesting habits are known or can be inferred for most species, little is known about the specific nesting requirements for most species. Bare, loose soil and aboveground cavities are the two most common nest sites used by the majority of species. Additionally, thick leaf litter and rotten logs are important overwintering habitats for a number of species. <a href="https://xerces.org/publications/fact-sheets/nesting-overwintering-habitat#:~:text=The%20availability%20of%20nesting%20and,support%20pollinators%20and%20other%20wildlife" target = "blank_">Learn more about habitat management for nesting and overwintering sites </a>from the Xerces Society. 
+Nesting is a crucial part of bees' annual cycle that remains woefully understudied. While broad nesting habits are known or can be inferred for most species, little is known about the specific nesting requirements for most species. Bare, loose soil and aboveground cavities are the two most common nest sites used by the majority of species. Additionally, thick leaf litter and rotten logs are important overwintering habitats for a number of species. <a href="https://xerces.org/publications/fact-sheets/nesting-overwintering-habitat#:~:text=The%20availability%20of%20nesting%20and,support%20pollinators%20and%20other%20wildlife" target = "blank_">Learn more about habitat management for nesting and overwintering sites </a>from the Xerces Society.
 <div>
 
 </div>
@@ -29,7 +29,7 @@ Nesting is a crucial part of bees' annual cycle that remains woefully understudi
 <h4>Detailed Species accounts for all 350+ species will be available soon!</h4>
 </div>
 
-As part of the state bee checklist that will be published next year, we are developing individual species accounts for each species. These will provide up to date information on species distributions, flower preferences, phenology, habitat needs, and the effect of sampling method based on over 50,0000 occurrence records. 
+As part of the state bee checklist that will be published next year, we are developing individual species accounts for each species. These will provide up to date information on species distributions, flower preferences, phenology, habitat needs, and the effect of sampling method based on over 50,0000 occurrence records.
 <br>
 
 Below are a few examples from the forthcoming species accounts.
@@ -67,5 +67,3 @@ Below are a few examples from the forthcoming species accounts.
 </div>
 </div>
 </div>
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
