@@ -12,9 +12,10 @@ header_menu: false
 
 <br>
 <div class="doubleColumn">
-<div> <img alt="Biophysical_rarefraction_bees" src="images/Biophysical_regions_SpeciesAccum_bees.png" style="margin: 0px"> </div>
+<div> <img alt="Biophysical_rarefraction_bees" title="Vermont Bees Collector's Curve" src="https://stateofbees.vtatlasoflife.org/images/Biophysical_regions_SpeciesAccum_bees.png" style="margin: 0px"> </div>
 <div>
-Wild bees have been recorded in every biophysical region and nearly every town. The Vermont Wild Bee Survey made a concerted effort to visit the full spectrum of bee habitats. However, sampling effort was far from uniform across the state. Recent sampling has been concentrated around the population centers in Chittenden and Washington counties, while historical collecting was biased geographically by a small number of prolific collectors based in places like East Dorset, Middlebury, and Castleton. But the 4,254 verified records we have from the 20th century provide some insight into past bee communities.
+The Vermont Wild Bee Survey made a concerted effort to visit the full spectrum of bee habitats. At least 100 species have been recorded in each biophysical region and at least one record exists for nearly every town in the state. However, sampling effort was not uniform across the state. Recent sampling has concentrated around population centers in Chittenden and Washington counties, while historical collecting was geographically biased by a small number of prolific collectors in places like East Dorset, Middlebury, and Castleton. In recent years, spatially explicit sampling has been done statewide for Bumble Bees and across Chittenden County for other bee genera. 
+
 
 </div>
 </div>

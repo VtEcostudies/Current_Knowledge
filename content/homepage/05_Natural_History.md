@@ -8,16 +8,16 @@ header_menu: true
 <h4> </h4>
 </div>
 
-Understanding the natural history of each species can reveal important aspects that are necessary for conservation action to be successful. Not all bee species are alike. Even within a single bee genus, there can be significant variation in social structure, phenology, nesting locations, and diet. Some species are active as adults for less than a month and spend the rest of the year as larva and pupa in a nest. Others however overwinter as adults and are flying from April through October, with multiple generations during the summer.
+Not all bee species are alike. Even within a single genus, social structure, phenology, nesting locations, and diet can vary widely. Some species are active as adults for less than a month, spending most of the year as larvae or pupae in a nest. Others, however, overwinter as adults are active from April through October, with multiple generations in one summer. Understanding each species' natural history can reveal important information that is necessary for conservation action to succeed. 
 
 
 <div class = "row">
 <div class= "doubleColumn">
 <div>
-<img src="images/Brown-belted Bumble Bee (Bombus griseocollis) nest 20120613.jpg" style="width: 75%">
+<img src="https://stateofbees.vtatlasoflife.org/images/Brown-belted Bumble Bee (Bombus griseocollis) nest 20120613.jpg" style="width: 75%">
 </div>
 
-Nesting is a crucial part of their annual cycle that remains woefully understudied. While broad nesting habits are known or can be inferred for most species, little is known about the specific nesting requirements for most species. Bare, loose soil and above ground cavities are the two most common nest sites that are used by the majority of species. Additionally, thick leaf litter and rotten logs are important overwintering habitats for a number of species. <a href="https://xerces.org/publications/fact-sheets/nesting-overwintering-habitat#:~:text=The%20availability%20of%20nesting%20and,support%20pollinators%20and%20other%20wildlife" target = "blank_">Learn more about r habitat management for nesting and overwintering sites </a>from the Xerces Society. 
+Nesting is a crucial part of bees' annual cycle that remains woefully understudied. While broad nesting habits are known or can be inferred for most species, little is known about the specific nesting requirements for most species. Bare, loose soil and aboveground cavities are the two most common nest sites used by the majority of species. Additionally, thick leaf litter and rotten logs are important overwintering habitats for a number of species. <a href="https://xerces.org/publications/fact-sheets/nesting-overwintering-habitat#:~:text=The%20availability%20of%20nesting%20and,support%20pollinators%20and%20other%20wildlife" target = "blank_">Learn more about habitat management for nesting and overwintering sites </a>from the Xerces Society. 
 <div>
 
 </div>
@@ -36,21 +36,34 @@ Below are a few examples from the forthcoming species accounts.
 
 <div class= "row">
 <div class = "doubleColumn">
-<div> <p> Ligated Furrow Bee (<i>Halictus ligatus</i>) <b>phenology</b> </p>
-<img src="images/Phenology_Halictus_ligatus.png" alt="Ligated_Furrow_Bee_Phenology" title="Ligated Furrow Bee (<i>Halictus ligatus</i>)">
+<div> <p style="text-align: justify; "> Ligated Furrow Bee (<i>Halictus ligatus</i>) <b>phenology</b> </p>
+<img src="https://stateofbees.vtatlasoflife.org/images/Phenology_Halictus_ligatus.png" alt="Ligated_Furrow_Bee_Phenology" title="Ligated Furrow Bee (<i>Halictus ligatus</i>)">
 </div>
-<div> <p> Cherry Miner (<i>Andrena pruni</i>) <b>distribution</b></p>
-<img src="images/Example_dist_Andrena_pruni.png" alt="Cherry_Miner_Distribution_Map" title="Cherry Miner (<i>Andrena pruni</i>)">
+<div> <p style="text-align: center;"> Cherry Miner (<i>Andrena pruni</i>) <b>distribution</b></p>
+<img src="https://stateofbees.vtatlasoflife.org/images/Example_dist_Andrena_pruni.png" alt="Cherry_Miner_Distribution_Map" title="Cherry Miner (<i>Andrena pruni</i>)">
 </div>
 </div>
 </div>
 <div class= "row">
 <div class = "doubleColumn">
-<div> <p> <b>Elevation profile</b> of New England Longhorn records (<i>Melissodes illatus</i>) in black, with the elevation profile of the whole state in gray.</p>
-<img src="images/Elevation_hist_Melissodes_illatus.png" alt="New England Longhorn Elevation Profile" title="New England Longhorn(<i>Melissodes illatus</i>)">
+<div> <p style="text-align: center;"> <b>Elevation profile</b> of New England Longhorn (<i>Melissodes illatus</i>) records in black, with the elevation profile of Vermont (gray).</p>
+<img src="https://stateofbees.vtatlasoflife.org/images/Elevation_hist_Melissodes_illatus.png" alt="New England Longhorn Elevation Profile" title="New England Longhorn(<i>Melissodes illatus</i>)">
 </div>
-<div> <p> <b>Capture methods</b> for the Bicolored Striped-Sweat bee (<i>Agapostemon virescens</i>) shown as the black dot, compared to all other species (gray dots). </p>
-<img src="images/Tert_plot_Agapostemon_virescens.png" alt="Bicolored_striped_sweat_bee" title="Bicolored Striped-Sweat bee (<i>Agapostemon virescens</i>)">
+<div> <p style="text-align: center;"> <b>Capture methods</b> for the Bicolored Striped-Sweat bee (<i>Agapostemon virescens</i>) shown as the black dot, compared to all other species (gray dots). </p>
+<img src="https://stateofbees.vtatlasoflife.org/images/Tert_plot_Agapostemon_virescens.png" alt="Bicolored_striped_sweat_bee" title="Bicolored Striped-Sweat bee (<i>Agapostemon virescens</i>)">
+</div>
+</div>
+</div>
+
+<div class= "row">
+ <p style="text-align: center;"> <b>Floral preferences</b> of Pickerelweed Shortface (<i>Dufourea novaeangliae</i>) derived from iNaturalist observations.</p>
+<div class = "doubleColumn">
+<div>
+<img src="https://inaturalist-open-data.s3.amazonaws.com/photos/85997471/medium.jpeg" alt="Pickerelweed shortface" title="Pickerelweed Shortface (<i>Dufourea novaeangliae</i>)" style="width: 90% align: center">
+</div>
+<div>
+  <iframe src="https://vtatlasoflife.org/SOBees_2022/PickerelWeed_Shortface.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:375px;width:100%;border:none;overflow:hidden;"></iframe>
+  </iframe>
 </div>
 </div>
 </div>
