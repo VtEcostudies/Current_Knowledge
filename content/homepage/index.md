@@ -1,5 +1,5 @@
 ---
 headless: true
-type: "pages"
-layout: "layouts/pages/Current_Knowledge.html"
+#type: "pages"
+#layout: "layouts/pages/Current_Knowledge.html"
 ---
