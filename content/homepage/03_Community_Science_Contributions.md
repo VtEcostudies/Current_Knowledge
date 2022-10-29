@@ -15,9 +15,6 @@ Nearly half of the species and 22% of occurrence records came from community sci
 <p class="caption">Pruinose Squash Bee (<i>Peponapis pruinosa</i>) - A valuable pollinator of squash that has followed the domestication and spread of its host plant from its native range in Central America and the Southwestern US.</p>
 </div>
 <div>
-Vermont has the highest per capita engagement with <a href="https://www.inaturalist.org/places/vermont-us" target=blank_>iNaturalist</a> and by far the highest proportion of bee species that have been recorded on the platform (49% vs. approximately 20% nationally). More than 1,500 people have submitted <a href=”https://www.inaturalist.org/projects/vermont-wild-bee-survey”>photo-observations of bees </a>, including several that were new species for the state. Crowd-source platforms are likely to continue growing and will probably become the largest and fastest source of data on bee distributions and phenology. 
+Vermont has the highest per capita engagement with <a href="https://www.inaturalist.org/places/vermont-us" target=blank_>iNaturalist</a> and by far the highest proportion of bee species that have been recorded on the platform (49% vs. approximately 20% nationally). More than 1,500 people have submitted <a href=”https://www.inaturalist.org/projects/vermont-wild-bee-survey”>photo-observations of bees </a>, including several that were new species for the state. Crowd-source platforms are likely to continue growing and will probably become the largest and fastest source of data on bee distributions and phenology.
 </div>
 </div>
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
-

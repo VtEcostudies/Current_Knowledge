@@ -17,5 +17,3 @@ As the northwestern most state in New England, Vermont has some more western spe
 Despite targeted survey efforts in montane and boreal biophysical regions, records of more northern boreal species are few. The cooler areas of the state do have a relatively distinct bee community, characterized by several species (i.e. the Cinquefoil Masked Bee <i>Hylaeus basalis</i>, White-fronted Small-Mason <i>Hoplitis albifrons</i>, and the Proximal Mason <i>Osmia proxima</i>) that are uncommon to rare south of the conifer-hardwood transition zone.
 
 <img alt="Epeolus minimus" title="Least Cellophane-cuckoo Bee <i>Epeolus minimus</i>" src="https://stateofbees.vtatlasoflife.org/images/Epeolus minimus.jpg" style="margin: 0px">
-
-<p style="font-size: 10pt; text-align: right; margin-right: 3%"><a href="https://vtecostudies.github.io/SoBees_LandingPage/">Home</a> | <a href="https://vtecostudies.github.io/SoBees_Threats/">Threats</a> | <a href="https://vtecostudies.github.io/SoBees_Conservation/">Conservation</a> | <a href="https://vtecostudies.github.io/SoBees_Next_Steps/">Next Steps</a></p>
