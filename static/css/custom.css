@@ -472,7 +472,7 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #fff;
-  background: #b80135 no-repeat center center;
+  background: black no-repeat center center;
   background-size: cover;
 }
 
@@ -528,7 +528,7 @@ ul li {
 /*.post {
   position: relative;
   width: 95%;
-  max-width: 95%; 
+  max-width: 95%;
   margin: 0rem auto;
   padding-bottom: 4rem;
   padding-top: 4rem;
@@ -558,7 +558,7 @@ ul li {
 }
 
 .lead {
-  display:flex;  
+  display:flex;
   justify-content: center;
 }
 
@@ -575,8 +575,8 @@ ul li {
 }
 
 .linktext {
-  font-size: 10pt; 
-  text-align: right; 
+  font-size: 10pt;
+  text-align: right;
   margin-right: 3%
 }
 
