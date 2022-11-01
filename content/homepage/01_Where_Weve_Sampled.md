@@ -1,7 +1,7 @@
 ---
 title: 'Where We Have Sampled'
 weight: 3
-header_menu: false
+header_menu: true
 ---
 
 <br>
