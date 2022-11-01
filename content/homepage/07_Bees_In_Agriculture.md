@@ -1,7 +1,7 @@
 ---
 title: 'Bees in Agriculture'
 weight: 10
-header_menu: false
+header_menu: true
 ---
 <br>
 <div class="lead">

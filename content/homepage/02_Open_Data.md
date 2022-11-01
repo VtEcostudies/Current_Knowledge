@@ -1,7 +1,7 @@
 ---
 title: 'Data Sharing'
 weight: 4
-header_menu: false
+header_menu: true
 ---
 <br>
 <div class="lead">
