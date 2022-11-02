@@ -25,7 +25,7 @@ Not all bee species are alike. Even within a single genus, social structure, phe
 <div class="row">
   <div class="col-lg-6">
     <img
-      src="https://stateofbees.vtatlasoflife.org/images/Brown-belted Bumble Bee (Bombus griseocollis) nest 20120613.jpg"
+      src="https://stateofbees.vtatlasoflife.org/images/bumblebeenest.jpg"
       alt="Bumble Bee (Bombus griseocollis) Nest"
       title="Bumble Bee (Bombus griseocollis) Nest"
       >
@@ -70,7 +70,7 @@ Below are a few examples from the forthcoming species accounts.
 <div class="row">
   <p style="text-align: center;"><b>Floral preferences</b> of Pickerelweed Shortface (<i>Dufourea novaeangliae</i>) derived from iNaturalist observations.</p>
   <div class="col-lg-6">
-    <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/85997471/medium.jpeg"
+    <img src="https://stateofbees.vtatlasoflife.org/images/Pickerelweed-Shortface-Bee.jpg"
     class="bootstrapColumnImage"
     alt="Pickerelweed shortface"
     title="Pickerelweed Shortface (<i>Dufourea novaeangliae</i>)"
