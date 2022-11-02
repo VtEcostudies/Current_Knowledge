@@ -9,7 +9,7 @@ header_menu: false
 Systematic surveys of wild bees in Vermont only began recently. In 2012, the Vermont Bumble Bee Atlas (<a href="https://val.vtecostudies.org/projects/bumble-bee-atlas/" target=”blank_”>VBBA</a>) began a multi-year effort to assess the statewide status of the 17 Bumble Bee (<i>Bombus</i>) species historically known from the state. Seven years later, the Vermont Wild Bee Survey (<a href="https://val.vtecostudies.org/projects/vtbees/" target=”blank_”>VTBees</a>) expanded this effort to the other 38 genera of wild bees. <b>These projects each amassed more than 10,000 occurrence records.</b> Combined with historical collections dating back more than a century, these data provide the first comprehensive understanding of wild bees across Vermont.
 </div>
 <div class="col-lg-4">
-<img src="https://stateofbees.vtatlasoflife.org/images/classification_bees_vt_infographic.jpg" alt="Proportional area diagram showing foraging classification of vermont's 352 bee species">
+<img src="https://stateofbees.vtatlasoflife.org/images/classification_bees_vt_infographic.png" alt="Proportional area diagram showing foraging classification of vermont's 352 bee species">
 </div>
 </div>
 
