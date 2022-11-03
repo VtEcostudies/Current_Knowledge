@@ -9,11 +9,11 @@ Not all bee species are alike. Even within a single genus, social structure, phe
 <div class="row">
   <div class="col-lg-6">
     <img
-      src="https://stateofbees.vtatlasoflife.org/images/bumblebeenest.jpg"
-      alt="Bumble Bee (Bombus griseocollis) Nest"
-      title="Bumble Bee (Bombus griseocollis) Nest"
+      src="https://stateofbees.vtatlasoflife.org/images/bombus_impatiens_honeypot_nest.jpg"
+      alt="bombus_impatiens_honeypot_nest.jpg"
+      title=" Common Eastern Bumble Bees (Bombus impatiens) Nest"
       >
-      <label class="image-caption">Bumble Bee (<i>Bombus griseocollis</i>) Nest</label>
+      <label class="image-caption">Workers inside a large colony of Common Eastern Bumble Bees (<i>Bombus impatiens</i>) are tending to a new brood and honey pots.</label>
   </div>
   <div class="col-lg-6">
     Nesting is a crucial part of bees' annual cycle that remains woefully understudied. While broad nesting habits are known or can be inferred for most species, little is known about the specific nesting requirements for most species. Bare, loose soil and aboveground cavities are the two most common nest sites used by the majority of species. Additionally, thick leaf litter and rotten logs are important overwintering habitats for a number of species. <a href="https://xerces.org/publications/fact-sheets/nesting-overwintering-habitat#:~:text=The%20availability%20of%20nesting%20and,support%20pollinators%20and%20other%20wildlife" target = "blank_">Learn more about habitat management for nesting and overwintering sites </a>from the Xerces Society.
@@ -59,7 +59,6 @@ Below are a few examples from the forthcoming species accounts.
     class="bootstrapColumnImage"
     alt="Pickerelweed shortface"
     title="Pickerelweed Shortface (Dufourea novaeangliae)"
-    style="width: 100% align: center"
     >
     <label class="image-caption">Pickerelweed Shortface (<i>Dufourea novaeangliae</i>)</label>
   </div>

@@ -20,7 +20,7 @@ header_menu: true
     </p>
   </div>
   <div class="col-lg-6">
-    <img alt="Epeolus minimus" title="Least Cellophane-cuckoo Bee (Epeolus minimus)" src="https://stateofbees.vtatlasoflife.org/images/Epeolus minimus.jpg" style="margin: 0px">
+    <img alt="Epeolus minimus" title="Least Cellophane-cuckoo Bee (Epeolus minimus)" src="https://stateofbees.vtatlasoflife.org/images/Epeolus minimus.jpg">
     <label class="image-caption">Least Cellophane-cuckoo Bee (<i>Epeolus minimus</i>)</label>
   </div>
 </div>
