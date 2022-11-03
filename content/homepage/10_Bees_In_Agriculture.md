@@ -10,8 +10,8 @@ header_menu: true
 <div class="row">
   <div class="col-lg-6">
     <img
-      src="https://stateofbees.vtatlasoflife.org/images/Common eastern bumble bee (Bombus impatiens) at squash flower20130824K.P.McFarland.jpg"
-      alt="Common eastern bumble bee (Bombus impatiens) at squash flower20130824K.P.McFarland.jpg"
+      src="https://stateofbees.vtatlasoflife.org/images/Bombus_impatiens_Squash.jpg"
+      alt="Bombus_impatiens_Squash.jpg"
       title="Common Eastern Bumbe Bee (Bombus impatiens) at squash flower"
       >
       <label class="image-caption">Common Eastern Bumbe Bee (<i>Bombus impatiens</i>) at squash flower</label>
