@@ -33,6 +33,7 @@ a {
 /* VCE image caption style */
 .image-caption {
   font-size: 0.75em;
+  line-height: 1.0;
 }
 
 /* Another VCE caption style */
