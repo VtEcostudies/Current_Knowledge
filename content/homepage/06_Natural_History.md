@@ -3,24 +3,8 @@ title: 'Natural History'
 weight: 6
 header_menu: true
 ---
-<style>
-.bootstrapColumnTitle {
-  font-weight: bold;
-  text-align: center;
-  padding: 20px;
-}
-.bootstrapColumnImage {
-  width: 100%;
-  min-height: 50%;
-}
-.post-content img {
-  margin: 0 0 0 0;
-  max-width: 100%;
-}
-</style>
 
 Not all bee species are alike. Even within a single genus, social structure, phenology, nesting locations, and diet can vary widely. Some species are active as adults for less than a month, spending most of the year as larvae or pupae in a nest. Others, however, overwinter as adults are active from April through October, with multiple generations in one summer. Understanding each species' natural history can reveal important information that is necessary for conservation action to succeed.
-
 
 <div class="row">
   <div class="col-lg-6">
@@ -29,6 +13,7 @@ Not all bee species are alike. Even within a single genus, social structure, phe
       alt="Bumble Bee (Bombus griseocollis) Nest"
       title="Bumble Bee (Bombus griseocollis) Nest"
       >
+      <label class="image-caption">Bumble Bee (<i>Bombus griseocollis</i>) Nest</label>
   </div>
   <div class="col-lg-6">
     Nesting is a crucial part of bees' annual cycle that remains woefully understudied. While broad nesting habits are known or can be inferred for most species, little is known about the specific nesting requirements for most species. Bare, loose soil and aboveground cavities are the two most common nest sites used by the majority of species. Additionally, thick leaf litter and rotten logs are important overwintering habitats for a number of species. <a href="https://xerces.org/publications/fact-sheets/nesting-overwintering-habitat#:~:text=The%20availability%20of%20nesting%20and,support%20pollinators%20and%20other%20wildlife" target = "blank_">Learn more about habitat management for nesting and overwintering sites </a>from the Xerces Society.
@@ -37,7 +22,7 @@ Not all bee species are alike. Even within a single genus, social structure, phe
 
 <br>
 <div class="lead">
-<h4>Detailed Species accounts for all 350+ species will be available soon!</h4>
+  <h4>Detailed Species accounts for all 350+ species will be available soon!</h4>
 </div>
 
 As part of the state bee checklist that will be published next year, we are developing individual species accounts for each species. These will provide up to date information on species distributions, flower preferences, phenology, habitat needs, and the effect of sampling method based on over 50,0000 occurrence records.
@@ -73,9 +58,10 @@ Below are a few examples from the forthcoming species accounts.
     <img src="https://stateofbees.vtatlasoflife.org/images/Pickerelweed-Shortface-Bee.jpg"
     class="bootstrapColumnImage"
     alt="Pickerelweed shortface"
-    title="Pickerelweed Shortface (<i>Dufourea novaeangliae</i>)"
+    title="Pickerelweed Shortface (Dufourea novaeangliae)"
     style="width: 100% align: center"
     >
+    <label class="image-caption">Pickerelweed Shortface (<i>Dufourea novaeangliae</i>)</label>
   </div>
   <div class="col-lg-6">
     <iframe

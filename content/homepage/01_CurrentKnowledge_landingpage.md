@@ -13,7 +13,7 @@ The earliest known Vermont bee record is a Half-black Bumble Bee (<i>Bombus vaga
 There are certainly still species within the state that have not yet been documented, and the status of others remains unclear. Moreover, the bee community is far from static. Scientists predict that several introduced species known to occur in neighboring states may become established in Vermont in the near future. Changes within the native fauna are also happening, but remain largely undetected without population monitoring. A decade of bumble bee surveys show significant changes in the species composition of this group, with a more detailed analysis of this group in the works.
 </div>
 <div class="col-lg-6" style="height: 10%; width: 100%; padding-left: 5%;">
-<img src="https://stateofbees.vtatlasoflife.org/images/classification_bees_vt_infographic.png" alt="Proportional area diagram showing foraging classification of vermont's 352 bee species">
+<img src="https://stateofbees.vtatlasoflife.org/images/classification_bees_vt_infographic.png" alt="Proportional area diagram showing foraging classification of Vermont's 352 bee species">
+<label class="image-caption">Proportional area diagram shows foraging classification of VT's 352 bee species</label>
 </div>
 </div>
-
