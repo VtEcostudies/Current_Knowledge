@@ -13,7 +13,7 @@ Not all bee species are alike. Even within a single genus, social structure, phe
       alt="bombus_impatiens_honeypot_nest.jpg"
       title=" Common Eastern Bumble Bees (Bombus impatiens) Nest"
       >
-      <label class="image-caption"> Brood, workers, and males inside a colony of Common Eastern Bumble Bees (<i>Bombus impatiens</i>)</label>
+      <label class="image-caption"> Brood, workers, and males inside a colony of Common Eastern Bumble Bees (<i>Bombus impatiens</i>) © Kent McFarland</label>
   </div>
   <div class="col-lg-6">
     Nesting is a crucial part of bees' annual cycle that remains woefully understudied. While broad nesting habits are known or can be inferred for most species, little is known about the specific nesting requirements for most species. Bare, loose soil and aboveground cavities are the two most common nest sites used by the majority of species. Additionally, thick leaf litter and rotten logs are important overwintering habitats for a number of species. <a href="https://xerces.org/publications/fact-sheets/nesting-overwintering-habitat#:~:text=The%20availability%20of%20nesting%20and,support%20pollinators%20and%20other%20wildlife" target = "blank_">Learn more about habitat management for nesting and overwintering sites </a>from the Xerces Society.
