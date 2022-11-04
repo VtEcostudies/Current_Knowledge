@@ -14,7 +14,7 @@ header_menu: true
       alt="Bombus_impatiens_Squash.jpg"
       title="Common Eastern Bumbe Bee (Bombus impatiens) at squash flower"
       >
-      <label class="image-caption">Common Eastern Bumbe Bee (<i>Bombus impatiens</i>) at squash flower</label>
+      <label class="image-caption">Common Eastern Bumbe Bee (<i>Bombus impatiens</i>) worker in a squash flower © Kent McFarland</label>
   </div>
   <div class="col-lg-6">
     <p>
