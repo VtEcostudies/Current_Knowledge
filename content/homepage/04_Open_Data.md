@@ -13,4 +13,4 @@ We are continuing to build data exploration products to provide easier access to
 
 
 <img alt="Agapostemon_sericueus" title="Silky Striped Sweat Bee (Agapostemon-sericeus)" src="https://stateofbees.vtatlasoflife.org/images/Silky-Striped-Sweat-Bee-Agapostemon-sericeus_KPMcFarland.jpg" style="width:75% align:center">
-<label class="image-caption">Silky Striped Sweat Bee (<i>Agapostemon sericeus</i>) Female © Kent Mcfarland</label>
+<label class="image-caption">Silky Striped Sweat Bee (<i>Agapostemon sericeus</i>) Female © Kent McFarland</label>
