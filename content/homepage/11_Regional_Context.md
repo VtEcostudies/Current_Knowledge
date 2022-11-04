@@ -21,6 +21,6 @@ header_menu: true
   </div>
   <div class="col-lg-6">
     <img alt="Epeolus minimus" title="Least Cellophane-cuckoo Bee (Epeolus minimus)" src="https://stateofbees.vtatlasoflife.org/images/Epeolus minimus.jpg">
-    <label class="image-caption">Least Cellophane-cuckoo Bee (<i>Epeolus minimus</i>) at the only site where this species has been found in New England © Spencer Hardy</label>
+    <label class="image-caption">Least Cellophane-cuckoo (<i>Epeolus minimus</i>) at the only site where this species has been found in New England © Spencer Hardy</label>
   </div>
 </div>
