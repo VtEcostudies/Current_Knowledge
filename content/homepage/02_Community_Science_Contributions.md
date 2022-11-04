@@ -17,7 +17,7 @@ header_menu: true
       alt="Community scientists collecting bees"
       style="margin: 0px"
     >
-    <label class="image-caption">Community scientists collecting bees</label>
+    <label class="image-caption">Community scientists collecting bees © Kent McFarland</label>
   </div>
   <div class="col-lg-6">
     Vermont has the highest per capita engagement with <a href="https://www.inaturalist.org/places/vermont-us" target=blank_>iNaturalist</a> and by far the highest proportion of bee species that have been recorded on the platform (49% vs. approximately 20% nationally). More than 1,500 people have submitted <a href=”https://www.inaturalist.org/projects/vermont-wild-bee-survey”>photo-observations of bees </a>, including several that were new species for the state. Crowd-source platforms are likely to continue growing and will probably become the largest and fastest source of data on bee distributions and phenology.
