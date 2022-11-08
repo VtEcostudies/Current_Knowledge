@@ -22,6 +22,7 @@ Many bee species are<a href="https://jarrodfowler.com/specialist_bees.html" targ
   width: 95%;" ><p style="font-size: 0.75em; line-height:0.9em; color: black;">
     Use the interactive figure to explore the bee-flower interaction data. Plant families with ≥10 bee observations are shown across the bottom and Bee genus is shown on the left. The colors represent the number of observations with darker colors indicating more observations. Click and enlarge areas on the figure to explore more details. Click on a Bee genus or a plant family to highlight a row or column, respectively. Mouse over a cell to see the number of observations.
       </p></div>
+    <br>
     <iframe src="https://vt-ecostudies-atlas.shinyapps.io/wildbee_interactions" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:500px;width:100%;border:none;overflow:hidden;"></iframe>
     </iframe>
   </div>
