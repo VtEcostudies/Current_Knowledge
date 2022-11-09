@@ -10,7 +10,7 @@ header_menu: true
 
 Over 20,000 observation records of bee-plant interactions revealed that 225 bee species visited at least 438 different plant species in 92 families. These interactions provide important information about diet preferences for bees, which in turn is useful for designing management plans and other conservation actions.
 
-Many bee species are<a href="https://jarrodfowler.com/specialist_bees.html" target = "blank_"> specialists </a> and only feed their offspring pollen from a single genus or species of plant. Even specialists will occasionally visit other flowers to feed on nectar. On the other hand, generalists use pollen from an assortment of unrelated plant species. For example, Common Eastern Bumble Bee (<i>Bombus impatiens</i>), has been associated with 159 different plant genera in Vermont alone.
+Many bee species are<a href="https://jarrodfowler.com/specialist_bees.html" target="_blank"> specialists </a> and only feed their offspring pollen from a single genus or species of plant. Even specialists will occasionally visit other flowers to feed on nectar. On the other hand, generalists use pollen from an assortment of unrelated plant species. For example, Common Eastern Bumble Bee (<i>Bombus impatiens</i>), has been associated with 159 different plant genera in Vermont alone.
 
 
 
