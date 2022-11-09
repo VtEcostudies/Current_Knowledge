@@ -12,9 +12,9 @@ header_menu: true
     <img
       src="https://stateofbees.vtatlasoflife.org/images/Bombus_impatiens_Squash.jpg"
       alt="Bombus_impatiens_Squash.jpg"
-      title="Common Eastern Bumbe Bee (Bombus impatiens) at squash flower"
+      title="Common Eastern Bumble Bee (Bombus impatiens) visiting a squash flower."
       >
-      <label class="image-caption">Common Eastern Bumbe Bee (<i>Bombus impatiens</i>) worker in a squash flower © Kent McFarland</label>
+      <label class="image-caption">Common Eastern Bumble Bee (<i>Bombus impatiens</i>) worker visiting a squash flower. © Kent McFarland</label>
   </div>
   <div class="col-lg-6">
     <p>
