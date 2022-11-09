@@ -61,9 +61,9 @@ header_menu: true
   </div>
 </div>
 <div class="row">
-  <p style="padding:20px;">
+  <div class="col-lg-12 text-center">
     <b>Floral preferences</b> of Pickerelweed Shortface (<i>Dufourea novaeangliae</i>) derived from iNaturalist observations.
-  </p>
+  </div>
   <div class="col-lg-6">
     <img src="https://stateofbees.vtatlasoflife.org/images/Pickerelweed-Shortface-Bee.jpg"
     class="bootstrapColumnImage"
