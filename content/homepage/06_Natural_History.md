@@ -28,10 +28,16 @@ header_menu: true
   <h4>Detailed Species accounts for all 350+ species will be available soon!</h4>
 </div>
 
-As part of the state bee checklist that will be published next year, we are developing individual species accounts for each species. These will provide up to date information on species distributions, flower preferences, phenology, habitat needs, and the effect of sampling method based on over 50,0000 occurrence records.
-<br>
+<div class="container">
+  <p>
+  As part of the state bee checklist that will be published next year, we are developing individual species accounts for each species. These will provide up to date information on species distributions, flower preferences, phenology, habitat needs, and the effect of sampling method based on over 50,0000 occurrence records.
+  </p>
+  <p>
+  Below are a few examples from the forthcoming species accounts.
+  </p>
+</div>
 
-Below are a few examples from the forthcoming species accounts.
+<div class="container" style="background-color:white; border-style:solid;">
 
 <div class="row">
   <div class="col-lg-6">
@@ -54,9 +60,10 @@ Below are a few examples from the forthcoming species accounts.
     <img src="https://stateofbees.vtatlasoflife.org/images/Tert_plot_Agapostemon_virescens.png" alt="Bicolored_striped_sweat_bee" title="Bicolored Striped-Sweat bee (<i>Agapostemon virescens</i>)">
   </div>
 </div>
-
 <div class="row">
-  <p style="text-align: center;"><b>Floral preferences</b> of Pickerelweed Shortface (<i>Dufourea novaeangliae</i>) derived from iNaturalist observations.</p>
+  <p style="padding:20px;">
+    <b>Floral preferences</b> of Pickerelweed Shortface (<i>Dufourea novaeangliae</i>) derived from iNaturalist observations.
+  </p>
   <div class="col-lg-6">
     <img src="https://stateofbees.vtatlasoflife.org/images/Pickerelweed-Shortface-Bee.jpg"
     class="bootstrapColumnImage"
@@ -71,4 +78,5 @@ Below are a few examples from the forthcoming species accounts.
       src="https://vtatlasoflife.org/SOBees_2022/PickerelWeed_Shortface.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:310px;width:100%;border:none;overflow:hidden;">
     </iframe>
   </div>
+</div>
 </div>
