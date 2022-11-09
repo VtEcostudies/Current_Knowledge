@@ -4,19 +4,22 @@ weight: 6
 header_menu: true
 ---
 
-Not all bee species are alike. Even within a single genus, social structure, phenology, nesting locations, and diet can vary widely. Some species are active as adults for less than a month, spending most of the year as larvae or pupae in a nest. Others, however, overwinter as adults are active from April through October, with multiple generations in one summer. Understanding each species' natural history can reveal important information that is necessary for conservation action to succeed.
-
 <div class="row">
-  <div class="col-lg-6">
+  <div class="col-lg-5">
     <img
       src="https://stateofbees.vtatlasoflife.org/images/bombus_impatiens_honeypot_nest.jpg"
       alt="bombus_impatiens_honeypot_nest.jpg"
-      title=" Common Eastern Bumble Bees (Bombus impatiens) Nest"
+      title="Common Eastern Bumble Bees (Bombus impatiens) Nest"
       >
       <label class="image-caption"> Brood, workers, and males inside a colony of Common Eastern Bumble Bees (<i>Bombus impatiens</i>) © Kent McFarland</label>
   </div>
   <div class="col-lg-6">
+    <p>
+    Not all bee species are alike. Even within a single genus, social structure, phenology, nesting locations, and diet can vary widely. Some species are active as adults for less than a month, spending most of the year as larvae or pupae in a nest. Others, however, overwinter as adults are active from April through October, with multiple generations in one summer. Understanding each species' natural history can reveal important information that is necessary for conservation action to succeed.
+    </p>
+    <p>
     Nesting is a crucial part of bees' annual cycle that remains woefully understudied. While broad nesting habits are known or can be inferred for most species, little is known about the specific nesting requirements for most species. Bare, loose soil and aboveground cavities are the two most common nest sites used by the majority of species. Additionally, thick leaf litter and rotten logs are important overwintering habitats for a number of species. <a href="https://xerces.org/publications/fact-sheets/nesting-overwintering-habitat#:~:text=The%20availability%20of%20nesting%20and,support%20pollinators%20and%20other%20wildlife" target = "blank_">Learn more about habitat management for nesting and overwintering sites </a>from the Xerces Society.
+    </p>
   </div>
 </div> <!-- end row -->
 
