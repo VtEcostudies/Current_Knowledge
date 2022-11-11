@@ -10,6 +10,7 @@
 .blog-description {
   color: white;
   font-weight: bolder;
+    font-size: 200%;
   -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
 }
