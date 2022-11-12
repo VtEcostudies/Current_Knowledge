@@ -13,4 +13,4 @@ We are continuing to build data exploration products to provide easier access to
 
 
 <img alt="bees" title="bees" src="https://stateofbees.vtatlasoflife.org/images/bees1.jpg" style="width:75% align:center">
-<label class="image-caption">Bee records shared with the Vermont Atlas of Life.</label>
+<label class="image-caption">Examples of bee records shared with the Vermont Atlas of Life.</label>
